@@ -33,7 +33,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/zmining/zmining/output/snake.svg" alt="Snake animation" />
-
 ###
