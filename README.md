@@ -19,9 +19,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVqYnZ4cjRpbDJ0amNncTZhYzBobTF3N282NnJqeWZqamhjam1zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9t4VpnLoHtAd8uFb82/giphy.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://www.youtube.com/@zmining859" target="_blank">
@@ -33,6 +31,14 @@
   <a href="mailto:dieimissom2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVqYnZ4cjRpbDJ0amNncTZhYzBobTF3N282NnJqeWZqamhjam1zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9t4VpnLoHtAd8uFb82/giphy.gif"  />
 </div>
 
 ###
