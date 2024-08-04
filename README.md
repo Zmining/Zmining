@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Me chamo Dieimissom, estou em busca de experiência na área de programação. Sempre em busca de aprendizado contínuo e de novas oportunidades.</h3>
+<h3 align="center">Olá! Me chamo Dieimissom, sou uma pessoa que adora desafios e estou em busca de experiência na área de programação. Gosto sempre de aprender coisas novas e utilizá-las para me aperfeiçoar</h3>
 
 ###
 
